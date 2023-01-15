@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Secular+One&display=swap");
+
+body .carddiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 70px;
+  font-family: "Secular One", sans-serif;
+}
+
+body {
+  background-color: #343838;
+}

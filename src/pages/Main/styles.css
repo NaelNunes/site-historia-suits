@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Secular+One&display=swap");
+
+body .primerbody {
+  background-color: #343838;
+}
+
+div .intr {
+  text-align: center;
+  font-family: "Secular One", sans-serif;
+  color: white;
+  margin-top: 35px;
+}
+
+table tr td img {
+  width: 100%;
+}
+
+div table .textoint {
+  width: 50%;
+  margin-left: 100px;
+  font-family: "Secular One", sans-serif;
+  text-align: center;
+  color: white;
+}
+
+.int {
+  width: 85%;
+  margin: auto auto;
+  margin-top: 60px;
+  margin-bottom: 120px;
+}
+
+div .int table {
+  border-bottom-style: solid;
+  border-style: solid;
+  border-color: black;
+}
+
+.video {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.trailer {
+  font-family: "Secular One", sans-serif;
+  color: white;
+  text-align: center;
+  margin-bottom: 70px;
+}

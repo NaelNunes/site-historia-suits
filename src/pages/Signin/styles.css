@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Secular+One&display=swap");
+
+body div .content {
+  background-color: #343838;
+}
+
+.signin {
+  width: 60%;
+  border: 3px solid #cc3b20;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 590px;
+  background-color: #170f14;
+}
+
+.signin img {
+  width: 200px;
+  padding: 20px 0px;
+}
+
+.signin div {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.formulario {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+}
+
+.formulario input {
+  margin-bottom: 15px;
+  height: 40px;
+  width: 100%;
+  font-family: "Secular One", sans-serif;
+}
+
+.formulario button {
+  margin-bottom: 15px;
+  height: 40px;
+  width: 100%;
+  text-transform: uppercase;
+  font-family: "Secular One", sans-serif;
+}
+
+.signin div h1 {
+  padding-bottom: 20px;
+  text-align: center;
+  width: 100%;
+  font-size: 40px;
+  font-family: "Secular One", sans-serif;
+}
+
+.signin a {
+  padding-bottom: 25px;
+  font-family: "Secular One", sans-serif;
+  color: #cc3b20;
+}
+
+.content {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.aler {
+  font-family: "Secular One", sans-serif;
+  margin-bottom: 15px;
+  margin-top: 10px;
+}
+
+.ac {
+  color: white;
+  text-decoration: solid;
+  text-shadow: black;
+  text-shadow: solid;
+}

@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Secular+One&display=swap");
+
+.imagens {
+  margin: auto auto;
+  width: 250px;
+  height: 250px;
+}
+
+.informacao {
+  text-align: center;
+}
+.informacao p {
+  font-size: 20px;
+}
+
+.scope {
+  font-family: "Secular One", sans-serif;
+}
+
+.objective {
+  font-family: "Secular One", sans-serif;
+}
+
+.Justify {
+  font-family: "Secular One", sans-serif;
+}

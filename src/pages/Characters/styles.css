@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Secular+One&display=swap");
+
+.hPers {
+  text-align: center;
+  color: white;
+  font-family: "Secular One", sans-serif;
+  margin-top: 30px;
+}
+
+.Carrossel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
